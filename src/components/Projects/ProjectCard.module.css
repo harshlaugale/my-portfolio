@@ -1,0 +1,77 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 380px;
+  height: 760px;
+
+  @media (max-width: 1025px) {
+    width: 100%;
+    max-width: 100%;
+    margin: 10px 0 0 0; 
+    align-items: center;
+    height: fit-content;
+    padding: 10px;
+  }
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 26px;
+  width: 330px;
+  height: 200px;
+
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  @media (max-width:1025px) {
+    font-size: 5.5vw;
+  }
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 1.4vw;
+  font-weight: 400;
+}
+
+@media (max-width: 1025px) {
+  .description {
+    font-size: 5.2vw;
+  }
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  
+}
+
+.skill {
+  font-size: 25px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 22px;
+  @media (max-width:1025px) {
+    font-size: 4.5vw;
+  }
+}

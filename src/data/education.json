@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 0,
+        "name" : "Rizvi College of Engineering, Mumbai.",
+        "degree" : "Bachelor of Engineering - BE in Computer Engineering",
+        "date" : "2021 - present",
+        "grade" : "CGPA - 9.1",
+        "description" : "I am currently pursuing a Bachelor's degree in Computer Engineering at Rizvi College of Engineering, Mumbai. I have completed 5 semesters and have a CGPA of 9.1. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.This academic journey is characterized by cutting-edge coursework, hands-on projects, and a vibrant learning community.",
+        "image" : "https://i2.wp.com/eng.rizvi.edu.in/wp-content/uploads/2021/08/RCOE_Logo_Paul-1.png?fit=2936%2C3128&ssl=1"
+    },{
+        "id" : 1,
+        "name" : "Patkar Varde College, Mumbai.",
+        "degree" : "Higher Secondary Certificate in Science",
+        "date" : "2019 - 2021",
+        "grade" : "87%",
+        "description" : "Proud alumnus of Patkar-Varde College, where I successfully completed my Higher Secondary Certificate (HSC) in the Science stream with a focus on Physics, Chemistry, Mathematics, and Biology (PCMB).This experience has not only enriched my understanding of the sciences but also cultivated critical thinking and problem-solving skills essential for my future pursuits.",
+        "image" : "https://chikitsaksamuhakokan-edu.in/images/patkaroglogo.png"
+    },{
+        "id" : 2,
+        "name" : "St. John's High School, Mumbai.",
+        "degree" : "Secondary School Certificate",
+        "date" : " 2006 - 2019",
+        "grade" : "80%",
+        "description" : "A proud alumnus of St. John's High School, where I completed my Secondary School Certificate (SSC) education. St. John's not only provided a strong academic foundation but also fostered an environment that encouraged curiosity, discipline, and holistic development. The dedicated educators and the supportive community at St. John's made my school years memorable and formative.",
+        "image" : "https://scontent.fbom16-1.fna.fbcdn.net/v/t39.30808-6/317803399_526572212819750_2975018770756467184_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDnLH2JovRIAX8PB09-&_nc_ht=scontent.fbom16-1.fna&oh=00_AfAwn16y_GkDhMLAkp_FDG-PZnwOT-EmOFj3qy5tyJ962g&oe=65BBFAB4"
+    }
+]

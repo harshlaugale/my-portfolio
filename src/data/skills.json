@@ -1,0 +1,96 @@
+[
+    
+      {
+        "title": "Frontend",
+        "technologies": [
+          {
+            "name": "React Js",
+            "image": "https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg"
+          },
+          {
+            "name": "Next Js",
+            "image": "https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"
+          },
+          {
+            "name": "HTML",
+            "image": "https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg"
+          },
+          {
+            "name": "CSS",
+            "image": "https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-thumbnail.png"
+          },
+          {
+            "name": "JavaScript",
+            "image": "https://www.clipartmax.com/png/middle/147-1474351_javascript-icon.png"
+          },
+          {
+            "name": "BootStrap",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "technologies": [
+          {
+            "name": "Node Js",
+            "image": "https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png"
+          },
+          {
+            "name": "Express Js",
+            "image": "https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"
+          },
+          {
+            "name": "Python",
+            "image": "https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg"
+          },
+          {
+            "name": "MySQL",
+            "image": "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+          },
+          {
+            "name": "PostgreSQL",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"
+          },
+          {
+            "name": "Mongo DB",
+            "image": "https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png"
+          },
+          {
+            "name": "Firebase",
+            "image": "https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png"
+          }
+        ]
+      },
+      {
+        "title": "DataAnalyst",
+        "technologies": [
+          {
+            "name": "SQL",
+            "image": "https://static-00.iconduck.com/assets.00/sql-database-generic-icon-760x1024-z6gbzcs2.png"
+          },
+          {
+            "name": "Python",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+          },
+          {
+            "name": "Tableau",
+            "image": "https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk"
+          },
+          {
+            "name": "Power BI",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"
+          },
+          {
+            "name": "Excel",
+            "image": "https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png"
+          },
+          {
+            "name": "MATLAB",
+            "image": "https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg"
+          }
+        ]
+      }
+    
+  ]
+  

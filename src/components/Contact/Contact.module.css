@@ -1,0 +1,77 @@
+@import url("../../vars.css");
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 58px 5%;
+  gap: 10px;
+}
+
+.contactBtn {
+  text-decoration: none;
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  border-radius: 100px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  padding: 15px 26px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.text h2 {
+  font-size: 5vw;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.text p {
+  margin-top: 2vw;
+  font-size: 2.5vw;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 2vw;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 2vw;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 2.5vw;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 2vw;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
+}

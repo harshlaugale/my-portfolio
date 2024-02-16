@@ -1,0 +1,39 @@
+[
+    {
+      "title" : "SonicX",
+      "date"  : "Jun 2023 - Aug 2023",
+      "description" : "Developed an innovative music recommendation system using machine learning. Implemented collaborative filtering algorithms to analyze user preferences and provide personalized music suggestions. The project utilized Python for ML, creating a seamless user experience for discovering new tunes.",
+      "skills"  : ["Python",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js"] ,
+      "imageSrc"  : "projects/Picture1.png"
+      
+    },
+    {
+      "title": "SMART PARKING SYSTEM using IOT",
+      "date ": "Apr 2023 - May 2023",
+      "description": "Developed a dashboard which provides real-time monitoring of parking spaces providing a more efficient parking experience for drivers. Users can easily check the availability of parking spaces through dashboard which saves time spent on searching for a parking spot.",
+
+      "skills": ["Blynk",
+        "Arduino",
+        "Sensors",
+        "IOT",
+        "motors"
+      ],
+      "imageSrc" :  "projects/Picture3.png"
+     
+    },
+    {
+      "title": "FOOD WASTE MANAGEMENT SYSTEM WEBSITE", 
+      "date" : "Jun 2023 - Aug 2023",
+      "description": "Developed a website which will help restaurants to reduce food waste. The restaurant member will request NGO member to collect the leftover food and once the request is accepted the NGO’s will collect the food for its distribution.",
+      "skills" : ["HTML",
+        "CSS",
+        "JavaScript",
+        "php"],
+      "imageSrc" : "projects/Picture2.png"
+      
+    }
+]

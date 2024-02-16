@@ -1,0 +1,141 @@
+@import url("../../vars.css");
+
+.container {
+  margin: 5px;
+  display: flex;
+  color: var(--color-text);
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 97%;
+  z-index: 1;
+  gap: 8px;
+
+  @media (max-width: 960px) {
+    flex-direction: column;
+  }
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+
+  @media (max-width: 960px) {
+    flex-direction: column;
+  }
+}
+
+.title {
+  margin: 50px 0 10px 0;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.timelineSection {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+  width: 60%;
+  border: 2px solid #961eff; /* Set your border color */
+  box-shadow: 0 0 10px #1E90FF;
+  background-image: linear-gradient(to right, #8100a1, #42529d);
+  border-radius: 25px;
+
+  @media (max-width: 960px) {
+    margin: 20px;
+    padding: 10px;
+    width: 90%; /* Adjust as needed */
+  }
+}
+
+.timelineSection:hover {
+  box-shadow: 0 0 20px #1E90FF;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.desc {
+  font-size: 18px;
+  text-align: center;
+  max-width: 600px;
+
+  @media (max-width: 768px) {
+    font-size: 16px;
+  }
+}
+
+.timeline {
+  margin: 20px;
+
+  @media (max-width: 768px) {
+    margin: 0;
+  }
+}
+
+.box {
+  margin: 40px;
+  background: var(--color-dark);
+  padding: 22px;
+  border-radius: 25px;
+
+  @media (max-width: 1025px) {
+    margin: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom:5px ;
+  }
+}
+
+.name {
+  font-size: 27px;
+  display: flex;
+  margin-left: 10px;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+
+  @media (max-width: 768px) {
+    font-size: 25px;
+    flex-wrap: wrap;
+    font-size: 5.5vw;
+  }
+}
+
+.degree {
+  margin-top: 3px;
+  font-size: 20px;
+  @media (max-width:1025px) {
+    font-size: 4.5vw;
+  }
+}
+
+.date {
+  display: flex;
+  position: relative;
+  justify-content: end;
+  margin-top: 25px;
+}
+
+.grade {
+  font-size: 19px;
+  margin-bottom: 7px;
+}
+
+.heading {
+  display: flex;
+}
+
+.img {
+  background-color: rgba(255, 255, 255, 0.74);
+  padding: 2px;
+  border-radius: 5px;
+  width: 34px;
+  height: 34px;
+}
